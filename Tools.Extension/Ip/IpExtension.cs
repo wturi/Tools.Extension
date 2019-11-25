@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 using System.Web;
 using static System.Web.HttpContext;
 
-namespace Tools.Extension.Ip
+namespace Tools.Extension
 {
     /// <summary>
     /// Ip扩展
